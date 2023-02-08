@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "husky": "^8.0.3",
-    "prettier": "^2.8.3",
+    "prettier": "^2.8.4",
     "source-map-explorer": "^2.5.3"
   }
 }
